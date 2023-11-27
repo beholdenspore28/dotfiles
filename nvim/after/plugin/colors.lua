@@ -2,7 +2,7 @@
 function ColorMyPencils(color)
 --colorscheme
 
-	color = color or "mono"
+	color = color or "monochrome"
 	vim.cmd.colorscheme(color)
 
 --background	

@@ -6,6 +6,7 @@ return require('packer').startup(function(use)
 	use 'wbthomason/packer.nvim'
 
 	--Theme / colors
+	use "owickstrom/vim-colors-paramount"
 	use 'felipevolpone/mono-theme'
 	use 'fxn/vim-monochrome'
 	use 'yorickpeterse/vim-paper' 
